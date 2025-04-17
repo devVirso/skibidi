@@ -1,3 +1,4 @@
+--           inside pages        --
 blak = Color3.new(0,0,0)
 rede = Color3.new(255/255,0/255,0/255)
 tef = "SourceSans"
